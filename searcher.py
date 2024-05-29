@@ -11,7 +11,7 @@ from rich.text import Text
 
 from sset import SSet
 
-FILENAME = "small-words.txt"
+FILENAME = "words.txt"
 
 # Messages for footer
 LOADING = Text.from_markup("Loading dictionary...")
